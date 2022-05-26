@@ -1,0 +1,11 @@
+# editor stuff
+.vscode/
+.settings/
+.project
+.buildpath
+
+# nodejs stuff
+node_modules/
+coverage/
+
+example*
